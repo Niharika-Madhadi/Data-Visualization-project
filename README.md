@@ -1,4 +1,4 @@
 # Data-Visualization-project
 Data visualization project on Shopping trends dataset
 
-I have included the paper tableau file and the datasource
+I have included the paper ,tableau file and the data source
